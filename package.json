@@ -1,0 +1,19 @@
+{
+  "name": "team-coffee-web-admin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josivan/team-coffee-web-admin.git"
+  },
+  "author": "josivanps@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josivan/team-coffee-web-admin/issues"
+  },
+  "homepage": "https://github.com/josivan/team-coffee-web-admin#readme"
+}
